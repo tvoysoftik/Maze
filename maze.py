@@ -9,6 +9,9 @@ background = transform.scale(image.load('background.jpg'),(700,500))
 clock = time.Clock()
 FPS = 60
 
+def print_info():
+    pass
+
 # mixer.init()
 # mixer.music.load('jungles.ogg')
 # mixer.music.play()
