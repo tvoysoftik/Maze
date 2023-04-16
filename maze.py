@@ -12,6 +12,7 @@ FPS = 60
 def print_info():
     pass
 
+
 # mixer.init()
 # mixer.music.load('jungles.ogg')
 # mixer.music.play()
